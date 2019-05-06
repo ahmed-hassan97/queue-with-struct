@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545587266 source:e:\project c\structwith_queue\main.c
+	<stdio.h>
+	<stdlib.h>
+
